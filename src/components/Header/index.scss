@@ -1,3 +1,14 @@
 .header {
-    background-color: lumx-color-variant('primary', 'N');
+    background-color: #518cca;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.header-logo {
+    height: 60px;
+}
+
+.header-search-container {
+    margin-left: auto;
 }
